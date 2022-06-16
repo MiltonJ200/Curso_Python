@@ -1,0 +1,1 @@
+print("La cerveza se llama \n" + "\t\"" + input("Nombre de un animal: \n") + " "+ input("Ingrese un color: \n")+ "\"")
