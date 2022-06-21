@@ -14,3 +14,13 @@ print(resultado)
 #d = "genial"
 #e = " ".join([a, b, c, d]) #join sirve para agregar un texto dependiendo los parametros que encontramos en una lista, ejemplo agregamos un espacio entre cada uno de ellos
 #print(e)
+
+frase = "Si la implementación es difícil de explicar, puede que sea una mala idea."
+
+resultado = frase.replace("difícil", "fácil").replace("mala","buena")
+
+print(resultado)
+
+frase = "Si la implementación es difícil de explicar, puede que sea una mala idea."
+
+print(frase.replace("difícil", "fácil").replace("mala","buena"))
