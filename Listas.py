@@ -15,3 +15,14 @@ lista = ['g' , 'o', 'b', 'm', 'c']
 lista.sort() #no es correcto colocarlo en una variable
 lista.reverse()#pone la lista en orden al revez
 print(lista)
+
+#ejercicios
+mi_lista = [1 , 2 , 3 , 4 , 5]
+
+medios_transporte = ["avión", "auto", "barco", "bicicleta"]
+
+medios_transporte.append("motocicleta")
+
+frutas = ["manzana", "banana", "mango", "cereza", "sandía"]
+
+eliminado = frutas.pop(2)
