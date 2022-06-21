@@ -12,3 +12,16 @@ el color del agua."""    #metodo para agregar saltos de linea en un string
 
 #print("agua" in poema) #dice si la palabra se encuentra la palabra agua en la variable poema con un resultado true\false
 print("agua" not in poema) #negacion si existe la palabra agua en la variable poema
+
+texto = "Repetición"
+print(texto * 15)
+
+poema = """Tierra mojada
+mis recuerdos de viaje,
+entre las lluvias"""
+
+print("agua" not in poema)
+
+palabra = "electroencefalografista"
+
+print(len(palabra))
