@@ -1,4 +1,4 @@
-mi_set = set([1,2,3,4,4,4,4,5,5,5,5]) #no se pueden repetir los valores ya existentes
+mi_set = set([1,2,3,4,(1,2,3),5]) #no se pueden repetir los valores ya existentes y se pueden agregat tuples
 print(type(mi_set))
 print(mi_set)
 
